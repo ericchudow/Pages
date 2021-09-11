@@ -23,7 +23,7 @@ title: "Ross Chudow's Bar Mitzvah"
 description: ""
 baseurl: /Pages
 url: https://ericchudow.github.io/
-logo: "/images/Ross logo.jpg"
+logo: # "/images/Ross logo.jpg"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
