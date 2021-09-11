@@ -16,7 +16,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Ross Chudow's Bar Mitzvah Website
+title: Ross Chudow's Bar Mitzvah
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
