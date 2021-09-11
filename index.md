@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome to Ross Chudow’s Bar Mitzvah Website"
+title: "Welcome to Ross Chudow’s Bar Mitzvah Website" {: .text-nowrap}
 image: /images/Ross logo.jpg
 ---
 
