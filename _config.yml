@@ -23,7 +23,7 @@ title: "Ross Chudow's Bar Mitzvah"
 description: ""
 baseurl: /Pages
 url: https://ericchudow.github.io/
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "/images/Ross logo.jpg"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -49,8 +49,6 @@ liquid:
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
-feed:
-  path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 # paginate: 10
