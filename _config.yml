@@ -1,39 +1,5 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ericchudow 
-mmistakes
-/
-jekyll-theme-basically-basic
-Public
-11
-592901
-Code
-Issues
-2
-Pull requests
-1
-Discussions
-Actions
-Projects
-Security
-Insights
-jekyll-theme-basically-basic/_config.yml
-@mmistakes
-mmistakes Add support for Lunr and Algolia search (#48)
-…
-Latest commit e94ea30 on Feb 16, 2018
- History
- 2 contributors
-@mmistakes@ryzokuken
-85 lines (80 sloc)  2.24 KB
-  
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -50,7 +16,7 @@ Latest commit e94ea30 on Feb 16, 2018
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
+title: Ross Chudow's Bar Mitzvah Website
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -119,16 +85,4 @@ defaults:
     values:
       layout: post
       read_time: true
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
