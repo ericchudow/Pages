@@ -21,8 +21,8 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Ross Chudow's Bar Mitzvah"
 description: ""
-baseurl: /Pages
-url: https://ericchudow.github.io/
+baseurl: /
+url: https://barmitzvah.chudow.com
 logo: # "/images/Ross logo.jpg"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
