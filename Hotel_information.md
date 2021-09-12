@@ -14,7 +14,7 @@ Room code for our event: CBM
 
 If you need accommodations within walking distance of the synagogue, please let us know as soon as possible.
 
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />   
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 *Last updated: 9/12/2021*
 
 <hr />
