@@ -22,7 +22,7 @@ We are not planning on having a celebratory party on Saturday night but have ins
 <table>
 <tr>
   <td><address><a href="https://www.chizukamuno.org">Chizuk Amuno Congregation</a> <br />  8100 Stevenson Road <br />  Pikesville, MD 21208 <br />  410-486-6400</address></td>
-  <td>![Chizuk Logo]('images/Chizuk-Amuno-Cong.jpg')</td>
+  <td><img src="images/Chizuk-Amuno-Cong.jpg"/></td>
   <td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3083.392777585419!2d-76.71648684855886!3d39.39261907939671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c810bcdadf6c39%3A0x2c0acef88d2b3d5b!2sChizuk%20Amuno%20Congregation!5e0!3m2!1sen!2sus!4v1631459504980!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe></td>
 </tr>
 </table>
