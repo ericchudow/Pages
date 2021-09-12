@@ -19,7 +19,7 @@ We are planning to have Friday evening Shabbat services and dinner for our out-o
 </tr>
 </table>
 
-
+<br />
 *Last updated: 9/12/2021*
 
 <hr />
