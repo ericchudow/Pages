@@ -19,7 +19,7 @@ Click the buttons below for the latest information:
 [Mitzvah Project](Mitzvah-Project){: .btn .btn--success}
 
 
-If you need accommodations within walking distance of the synagogue, please let us know as soon as possible.
+If you need accommodations within walking distance of the synagogue, please let us know as soon as possible at barmitzvah[@]chudow[.]com.
 
 <br />
 *Last updated: 9/12/2021*
