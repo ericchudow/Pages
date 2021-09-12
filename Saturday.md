@@ -9,9 +9,8 @@ permalink: /Saturday
 # Shabbat Morning Services
 
 ![image-left]({{ 'images/Ross in tallis with siddur 2-small.jpg' | absolute_url }}){: .align-left} 
-Shabbat morning services will begin at 9:30 AM at Chizuk Amuno Congregation.  Ross will be leading most of the service, so please plan to be on time.  We ask that you either leave your electronic devices at home (or in the hotel), or silence them before coming to synagogue.  Men are expected to wear a kippah (head covering), and women may wear one if they so desire.  There will be kippot for Ross’ Bar Mitzvah just outside the main sanctuary.  Any adult being honored with an Aliyah or other role on the bima will also need to wear a tallit (prayer shawl); extras are available at synagogue if you don’t bring one with you.  
+Shabbat morning services will begin at 9:30 AM at Chizuk Amuno Congregation.  Ross will be leading most of the service, so please plan to be on time.  We ask that you either leave your electronic devices at home (or in the hotel), or silence them before coming to synagogue.  Men are expected to wear a kippah (head covering), and women may wear one if they so desire.  There will be kippot for Ross’ Bar Mitzvah just outside the main sanctuary.  Any adult being honored with an Aliyah or other role on the bima will also need to wear a tallit (prayer shawl); ![image-right]({{ 'images/Ross reading Torah-small.jpg' | absolute_url }}){: .align-right} extras are available at synagogue if you don’t bring one with you.  
 
-![image-right]({{ 'images/Ross reading Torah-small.jpg' | absolute_url }}){: .align-right} 
 Services usually last a little over two hours and will be followed by a kiddush lunch reception (kosher, meat).  Please let us know if you have any food allergies or restrictions.  At this time, Chizuk Amuno is not allowing any indoor eating due to COVID restrictions, so please be prepared with a warm coat to eat outside if this has not changed. 
 
 # Saturday Night
