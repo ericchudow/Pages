@@ -12,7 +12,7 @@ A block of rooms has been set aside for our guests at the [DoubleTree by Hilton 
 [DoubleTree Reservations](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=PIKDTDT&arrivalDate=2021-12-03&departureDate=2021-12-05&room1NumAdults=1&brandCode=DT&inputModule=HOTEL_SEARCH&ohwDeepLinking=true) <br /> 
 Room code for our event: CBM
 
-If you need accommodations within walking distance of the synagogue, please let us know as soon as possible at barmitzvah[@]chudow[.]com.
+If you need accommodations within walking distance of the synagogue, please let us know as soon as possible at [barmitzvah[@]chudow[.]com](mailto:barmitzvah[@]chudow[.]com) (without the brackets).
 
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 *Last updated: 9/12/2021*
