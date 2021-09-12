@@ -18,7 +18,7 @@ Click the buttons below for the latest information:
 [Hotel Information](Hotel-Information){: .btn .btn--info}
 [Mitzvah Project](Mitzvah-Project){: .btn .btn--success}
 
-
+<br />
 *Last updated: 9/12/2021*
 
 Photos of Ross by [Michael Temchine Photography](https://michaeltemchine.com/)
