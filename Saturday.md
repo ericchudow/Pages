@@ -14,6 +14,8 @@ Shabbat morning services will begin at 9:30 AM at Chizuk Amuno Congregation.  Ro
 
 Services usually last a little over two hours and will be followed by a kiddush lunch reception (kosher, meat).  Please let us know if you have any food allergies or restrictions.  At this time, Chizuk Amuno is not allowing any indoor eating due to COVID restrictions, so please be prepared with a warm coat to eat outside if this has not changed. 
 
+For guests who are unable to join us in person, a livestream of the service for those who would like to view it will also be available at [https://www.chizukamuno.org/livestream]. 
+
 # Saturday Night
 
 We are not planning on having a celebratory party on Saturday night but have instead chosen to celebrate Ross’ Bar Mitzvah in Israel during winter break (COVID-willing).  Depending on COVID restrictions at the time, we may host a kosher pizza get-together at our house for seudah shlishit (Saturday evening meal).
@@ -29,3 +31,6 @@ We are not planning on having a celebratory party on Saturday night but have ins
 
 
 *Last updated: 9/12/2021*
+
+Photos of Ross by [Michael Temchine Photography](https://michaeltemchine.com/)
+{: .notice}
