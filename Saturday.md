@@ -21,6 +21,7 @@ For guests who are unable to join us in person, a livestream of the service for 
 We are not planning on having a celebratory party on Saturday night but have instead chosen to celebrate Ross’ Bar Mitzvah in Israel during winter break (COVID-willing).  Depending on COVID restrictions at the time, we may host a kosher pizza get-together at our house for seudah shlishit (Saturday evening meal).
 
 ## Synagogue Information 
+<hr />
 <table>
 <tr /><tr style="vertical-align: top" >
   <td style="vertical-align: top" ><address><a href="https://www.chizukamuno.org">Chizuk Amuno Congregation</a> <br />  8100 Stevenson Road <br />  Pikesville, MD 21208 <br />  410-486-6400</address></td>
@@ -31,6 +32,15 @@ We are not planning on having a celebratory party on Saturday night but have ins
 
 
 *Last updated: 9/12/2021*
+
+<hr />
+[COVID Information](COVID-Information){: .btn .btn--danger}
+[Friday Evening](Friday-Evening){: .btn .btn--accent} 
+[Saturday](Saturday){: .btn .btn--accent}
+[Sunday Morning](Sunday-Morning){: .btn .btn--accent} 
+[Hotel Information](Hotel-Information){: .btn .btn--info}
+[Mitzvah Project](Mitzvah-Project){: .btn .btn--success}
+<hr />
 
 Photos of Ross by [Michael Temchine Photography](https://michaeltemchine.com/)
 {: .notice}
