@@ -16,6 +16,9 @@ If you need accommodations within walking distance of the synagogue, please let 
 
 
 
+
+
+
   
 *Last updated: 9/12/2021*
 
