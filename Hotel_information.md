@@ -4,7 +4,7 @@ title: "Hotel Information"
 permalink: /Hotel-Information
 ---
 ![image-right]({{ 'images/Doubletree-small.jpg' | absolute_url }}){: .align-right}
-A block of rooms has been set aside for our guests at the [DoubleTree by Hilton Baltimore North - Pikesville](https://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html).
+A block of rooms has been set aside for our guests at the [DoubleTree by Hilton Baltimore North - Pikesville](https://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html):
 
 <address>
 1726 Reisterstown Road <br /> Pikesville, MD 21208 <br /> 410-653-1100</address> 
