@@ -10,6 +10,7 @@ Hello!  We’re so excited that you will be able to join us to celebrate Ross be
 
 
 Here is the current information:
+
 [COVID Information](COVID-Information){: .btn .btn--danger}
 [Friday Evening](Friday-Evening){: .btn .btn--accent} 
 [Saturday](Saturday){: .btn .btn--accent}
