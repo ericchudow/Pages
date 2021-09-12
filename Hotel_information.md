@@ -8,7 +8,7 @@ A block of rooms has been set aside for our guests at the Doubletree by Hilton B
 
 <address>
 1726 Reisterstown Road <br /> Pikesville, MD 21208 <br /> 410-653-1100</address> <br /> 
-[www.Baltimorenorthpikesville.doubletree.com](https://www.Baltimorenorthpikesville.doubletree.com) <br /> 
+[https://www.hilton.com/en/hotels/pikdtdt-doubletree-baltimore-north-pikesville/](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=PIKDTDT&arrivalDate=2021-12-03&departureDate=2021-12-05&room1NumAdults=1&brandCode=DT&inputModule=HOTEL_SEARCH&ohwDeepLinking=true) <br /> 
 Room code for our event: CBM
 
 If you need accommodations within walking distance of the synagogue, please let us know as soon as possible.
