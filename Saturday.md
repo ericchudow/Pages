@@ -18,7 +18,7 @@ Services usually last a little over two hours and will be followed by a kiddush 
 
 We are not planning on having a celebratory party on Saturday night but have instead chosen to celebrate Ross’ Bar Mitzvah in Israel during winter break (COVID-willing).  Depending on COVID restrictions at the time, we may host a kosher pizza get-together at our house for seudah shlishit (Saturday evening meal).
 
-![image-right]({{ 'images/Chizuk-Amuno-Cong.jpg' | absolute_url }})
+![image-right]({{ 'images/Chizuk-Amuno-Cong.jpg' | absolute_url }}){: .align-right} 
 ## Synagogue Information
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3083.392777585419!2d-76.71648684855886!3d39.39261907939671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c810bcdadf6c39%3A0x2c0acef88d2b3d5b!2sChizuk%20Amuno%20Congregation!5e0!3m2!1sen!2sus!4v1631459504980!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 {: .align-right} 
