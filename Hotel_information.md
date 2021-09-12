@@ -7,7 +7,9 @@ permalink: /Hotel-Information
 A block of rooms has been set aside for our guests at the Doubletree by Hilton Baltimore North - Pikesville.
 
 <address>
-1726 Reisterstown Road <br /> Pikesville, MD 21208 <br /> 410-653-1100 <br /> [www.Baltimorenorthpikesville.doubletree.com](https://www.Baltimorenorthpikesville.doubletree.com) <br /> Room code for our event: CBM
+1726 Reisterstown Road <br /> Pikesville, MD 21208 <br /> 410-653-1100</address> <br /> 
+[www.Baltimorenorthpikesville.doubletree.com](https://www.Baltimorenorthpikesville.doubletree.com) <br /> 
+Room code for our event: CBM
 
 If you need accommodations within walking distance of the synagogue, please let us know as soon as possible.
 
