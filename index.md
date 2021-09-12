@@ -18,6 +18,9 @@ Click the buttons below for the latest information:
 [Hotel Information](Hotel-Information){: .btn .btn--info}
 [Mitzvah Project](Mitzvah-Project){: .btn .btn--success}
 
+
+If you need accommodations within walking distance of the synagogue, please let us know as soon as possible.
+
 <br />
 *Last updated: 9/12/2021*
 
