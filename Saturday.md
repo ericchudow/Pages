@@ -18,7 +18,7 @@ For guests who are unable to join us in person, a livestream of the service for 
 
 # Saturday Night
 
-We are not planning on having a celebratory party on Saturday night but have instead chosen to celebrate Ross’ Bar Mitzvah in Israel during winter break (COVID-willing).  Depending on COVID restrictions at the time, we may host a kosher pizza get-together at our house for seudah shlishit (Saturday evening meal).
+We are not planning on having a celebratory party on Saturday night but have instead chosen to celebrate Ross’ Bar Mitzvah in Israel during winter break (COVID-willing).  Depending on COVID restrictions at the time, we may host a kosher pizza get-together at our house for a light Saturday evening meal for our out-of-town guests.
 
 ## Synagogue Information 
 <hr />
