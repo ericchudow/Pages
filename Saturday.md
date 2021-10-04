@@ -32,7 +32,7 @@ We are not planning on having a celebratory party on Saturday night but have ins
 </table>
 
 <br />
-*Last updated: 9/12/2021*
+*Last updated: 10/4/2021*
 
 <hr />
 [COVID Information](COVID-Information){: .btn .btn--danger}
