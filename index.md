@@ -22,7 +22,7 @@ Click the buttons below for the latest information:
 If you need accommodations within walking distance of the synagogue, please let us know as soon as possible at [barmitzvah[@]chudow[.]com](mailto:barmitzvah[@]chudow[.]com) (without the brackets).
 
 <br />
-*Last updated: 9/12/2021*
+*Last updated: 10/4/2021*
 
 Photos of Ross by [Michael Temchine Photography](https://michaeltemchine.com/)
 {: .notice}
