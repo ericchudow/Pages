@@ -19,7 +19,7 @@ Click the buttons below for the latest information:
 [Mitzvah Project](Mitzvah-Project){: .btn .btn--success}
 
 
-If you need accommodations within walking distance of the synagogue, please let us know as soon as possible by emailing us at [barmitzvah@chudow.com](mailto:barmitzvah@chudow.com?subject=Ross%20Bar%20Mitzvah).
+If you need accommodations within walking distance of the synagogue for Friday night, please let us know as soon as possible by emailing us at [barmitzvah@chudow.com](mailto:barmitzvah@chudow.com?subject=Ross%20Bar%20Mitzvah).
 
 <br />
 *Last updated: 10/4/2021*
