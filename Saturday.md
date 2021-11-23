@@ -18,7 +18,7 @@ For guests who are unable to join us in person, a livestream of the service for 
 
 # Saturday Night
 
-We are not planning on having a celebratory party on Saturday night, but have instead chosen to celebrate Ross’ Bar Mitzvah in Israel during winter break (COVID-willing).  It would still be great to see friends and family, especially our out-of-town guests, on Saturday afternoon and evening.  We're planning to host a casual pizza get-together at our house for a light Saturday evening meal for our out-of-town guests at 6:00 PM - 8:00 PM.  Similar to the COVID restrictions at synagogue, we are planning to eat outside, so please plan accordingly for the weather.  The rest of the time we can hang out inside with masks on.
+We are not planning on having a celebratory party on Saturday night, but have instead chosen to celebrate Ross’ Bar Mitzvah in Israel during winter break (COVID-willing).  It would still be great to see friends and family, especially our out-of-town guests, on Saturday afternoon and evening.  We're planning to host a casual pizza get-together at our house for a light Saturday evening meal for our out-of-town guests at 6:00 PM - 8:00 PM.  Similar to the COVID restrictions at our synagogue, we are planning to eat outside, so please plan accordingly for the weather.  The rest of the time we can hang out inside with masks on.
 
 ## Synagogue Information 
 <hr />
