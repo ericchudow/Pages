@@ -6,7 +6,7 @@ title: ""
 
 # Welcome to Ross Chudow’s Bar Mitzvah Website
 
-Hello!  We’re so excited that you will be able to join us to celebrate Ross becoming a Bar Mitzvah.  We have tried to include as much information here as possible to help you navigate the weekend.  Due to COVID, certain plans won’t be finalized until we get closer to the big day, so please check back regularly for updates.
+Hello!  We’re so excited that you will be able to join us to celebrate Ross becoming a Bar Mitzvah.  We have tried to include as much information here as possible to help you navigate the weekend.  Due to COVID, there will be certain restrictions and requirements, so please be understanding and plan accordingly.
 
 
 Click the buttons below for the latest information:
@@ -22,7 +22,7 @@ Click the buttons below for the latest information:
 If you need accommodations within walking distance of the synagogue for Friday night, please let us know as soon as possible by emailing us at [barmitzvah@chudow.com](mailto:barmitzvah@chudow.com?subject=Ross%20Bar%20Mitzvah).
 
 <br />
-*Last updated: 10/4/2021*
+*Last updated: 11/22/2021*
 
 Photos of Ross by [Michael Temchine Photography](https://michaeltemchine.com/)
 {: .notice}
