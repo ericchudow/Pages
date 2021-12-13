@@ -2,16 +2,16 @@
 
 - title: Home
   url: /
-- title: COVID Information
-  url: /COVID-Information
-- title: Friday Evening
-  url: /Friday-Evening
-- title: Saturday
-  url: /Saturday
-- title: Sunday Morning
-  url: /Sunday-Morning
-- title: Hotel Information
-  url: /Hotel-Information
+# - title: COVID Information
+#  url: /COVID-Information
+# - title: Friday Evening
+#   url: /Friday-Evening
+# - title: Saturday
+#   url: /Saturday
+# - title: Sunday Morning
+#   url: /Sunday-Morning
+# - title: Hotel Information
+#   url: /Hotel-Information
 - title: Mitzvah Project
   url: /Mitzvah-Project
   
