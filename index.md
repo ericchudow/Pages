@@ -6,7 +6,7 @@ title: ""
 
 # Welcome to Ross Chudow’s Bar Mitzvah Website
 
-Hello!  We’re so excited that you were able to join us to celebrate Ross becoming a Bar Mitzvah.  It was such a great and meaningful time for our whole family!  Hopefully this website was able to help you navigate the weekend.  Thank you for understanding and following all the COVID restrictions and requirements.  If you would like, there is still time to donate to [Ross' Mitzvah Project](Mitzvah-Project) to help foster children.
+Hello!  We were so excited that you were able to join us to celebrate Ross becoming a Bar Mitzvah.  It was such a great and meaningful time for our whole family!  Hopefully this website was able to help you navigate the weekend.  Thank you for understanding and following all the COVID restrictions and requirements.  If you would like, there is still time to donate to [Ross' Mitzvah Project](Mitzvah-Project) to help foster children.
 
 Click the button below for more information:
 
