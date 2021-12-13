@@ -11,12 +11,4 @@ This specific project is important to me because I know through my mother’s wo
 Please follow this link to my [Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2DNYNVMKIC037?ref_=wl_share), so that you can help donate items to go into emergency bags.  I will be collecting items for boys my age who need to quickly go into foster care.  
 
 
-*Last updated: 9/12/2021*
-
-<hr />
-[COVID Information](COVID-Information){: .btn .btn--danger}
-[Friday Evening](Friday-Evening){: .btn .btn--accent} 
-[Saturday](Saturday){: .btn .btn--accent}
-[Sunday Morning](Sunday-Morning){: .btn .btn--accent} 
-[Hotel Information](Hotel-Information){: .btn .btn--info}
-[Mitzvah Project](Mitzvah-Project){: .btn .btn--success}
+*Last updated: 12/12/2021*
