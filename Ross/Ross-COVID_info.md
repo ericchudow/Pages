@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "COVID Information"
-permalink: /COVID-Information
+permalink: /Ross-COVID-Information
 ---
 **Note: All plans are subject to change due to COVID**
 {: .notice--danger}
