@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hotel Information"
-permalink: /Hotel-Information
+permalink: /Ross-Hotel-Information
 ---
 ![image-right]({{ 'images/Doubletree-small.jpg' | absolute_url }}){: .align-right}
 A block of rooms has been set aside for our guests at the [DoubleTree by Hilton Baltimore North - Pikesville](https://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html):
