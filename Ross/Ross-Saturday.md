@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Saturday"
-permalink: /Saturday
+permalink: /Ross-Saturday
 ---
 **Note: All plans are subject to change due to COVID**
 {: .notice--danger}
