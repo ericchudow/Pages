@@ -9,7 +9,7 @@ permalink: /
 
 # Welcome to Jonathan Chudow’s Bar Mitzvah Website
 
-Hello!  We are so excited about Jonathan's upcoming a Bar Mitzvah.  It will be such a great and meaningful time for our family and friends!  Hopefully this website will help you navigate the weekend.  
+We are so excited about Jonathan's upcoming a Bar Mitzvah.  It will be such a great and meaningful time for our family and friends!  Hopefully this website will help you navigate the weekend.  
 
 <p style="text-align: center;">
 Please save the date for the Bar Mitzvah of <br />
