@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mitzvah Project"
-permalink: /Mitzvah-Project
+permalink: /Ross-Mitzvah-Project
 ---
 ![image-right]({{ 'images/BlueRibbonProject.png' | absolute_url }}){: .align-right}
 For my Mitzvah Project, I have chosen to partner with the [Blue Ribbon Project](https://www.blueribbonproject.org/).  The Blue Ribbon Project is an organization that helps kids of all ages that have been victims of child abuse or neglect and are being emergently placed into the foster care system.  When these children are removed from dangerous situations, they often are not able to bring anything with them.  Imagine that—no clothes, no toys, no blankets, not even a toothbrush.  The Blue Ribbon Project [Backpacks of Love](https://www.blueribbonproject.org/our-programs/backpacks-of-love.html) program collects clothing, toiletries, blankets, toys, books, and even toothbrushes, to give these children.  They put everything a child could need into a bag, ready to go at a moment’s notice, for whenever they are notified of a child being displaced.  
