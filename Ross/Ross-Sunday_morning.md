@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sunday Morning"
-permalink: /Sunday-Morning
+permalink: /Ross-Sunday-Morning
 ---
 
 **Note: All plans are subject to change due to COVID**
