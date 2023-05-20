@@ -2,9 +2,9 @@
 layout: page
 title: ""
 ---
-<div style="width: 60%; height: 60%">
+
 ![image-center]({{ '/images/Jonathan-cover.jpg' | absolute_url }}){: .align-center}
-</div>
+
 
 # Welcome to Jonathan Chudow’s Bar Mitzvah Website
 
