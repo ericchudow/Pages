@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Friday Evening"
-permalink: /Friday-Evening
+permalink: /Ross-Friday-Evening
 ---
 
 **Note: All plans are subject to change due to COVID**
