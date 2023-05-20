@@ -6,8 +6,6 @@ permalink: /Saturday
 **Note: All plans are subject to change due to COVID**
 {: .notice--danger}
 
-No more updates!!!
-
 # Shabbat Morning Services
 
 ![image-left]({{ 'images/Ross in tallis with siddur 2-small.jpg' | absolute_url }}){: .align-left} 
