@@ -17,9 +17,9 @@ Michelle & Eric Chudow <br />
 
 Room blocks will be available at the Doubletree Hotel in Pikesville and the Hampton Inn in Owings Mills; details available soon.
 
-
-Click the buttons below for more information:
-[Save the Date](Save-the-Date){: .btn .btn--success}
+<!-- this is a comment -->
+<!-- Click the buttons below for more information: -->
+<!-- [Save the Date](Save-the-Date){: .btn .btn--success} -->
 
 If you need to contact us, please email us at [barmitzvah@chudow.com](mailto:barmitzvah@chudow.com?subject=Jonathan%20Bar%20Mitzvah).
 
