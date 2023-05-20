@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ""
+permalink: /
 ---
 
 ![image-center]({{ '/images/Jonathan-cover.jpg' | absolute_url }}){: .align-center}
