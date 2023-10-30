@@ -11,12 +11,14 @@ Welcome to Jonathan Chudow’s Bar Mitzvah Website
 We are so excited about Jonathan's upcoming Bar Mitzvah.  It will be such a great and meaningful time for our family and friends!  Hopefully this website will help you navigate the weekend.  
 
 <p style="text-align: center;">
-Please save the date for the Bar Mitzvah of <br />
+Please save the date for the Bar Mitzvah of: <br />
+<b>
 Jonathan Boaz Chudow <br />
-<b>May 11, 2024</b> <br />
+May 11, 2024 <br />
 Pikesville, Maryland <br />
 Formal invitation to follow <br />
 Michelle & Eric Chudow <br />
+</b>
 </p>  
 A room block will be available at the Hampton Inn in Owings Mills; see [Hotel Information](Hotel-Information) for more information.
 
