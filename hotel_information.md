@@ -19,7 +19,7 @@ If you want a hotel for walking to the synagogue, the DoubleTree in Pikesville i
 [DoubleTree Reservations](https://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html) <br /> 
 <br /> <br /> 
 
-If you need closer accommodations within walking distance of the synagogue for Friday night, please email us soon as possible at [barmitzvah@chudow.com](mailto:barmitzvah@chudow.com?subject=Ross%20Bar%20Mitzvah).
+If you need closer accommodations within walking distance of the synagogue for Friday night, please email us soon as possible at [barmitzvah@chudow.com](mailto:barmitzvah@chudow.com?subject=Jonathan%20Bar%20Mitzvah).
 
 Maps:
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d24666.17058770497!2d-76.7758451395082!3d39.395367276210656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x89c81792461d8fe1%3A0xf1398949cfc98fea!2sHampton%20Inn%20Baltimore%2FOwings%20Mills%2C%2010521%20Red%20Run%20Blvd%2C%20Owings%20Mills%2C%20MD%2021117!3m2!1d39.4033406!2d-76.79712549999999!4m5!1s0x89c810bcdadf6c39%3A0x2c0acef88d2b3d5b!2sChizuk%20Amuno%20Congregation%2C%20Stevenson%20Road%2C%20Pikesville%2C%20MD!3m2!1d39.3922816!2d-76.714266!5e0!3m2!1sen!2sus!4v1698685738569!5m2!1sen!2sus" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
