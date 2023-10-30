@@ -33,4 +33,5 @@ If you need to contact us, please email us at [barmitzvah@chudow.com](mailto:bar
 [Home](/){: .btn .btn--accent} 
 [Hotel Information](Hotel-Information){: .btn .btn--info}
 
+<hr />
 {: .notice}
