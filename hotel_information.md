@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hotel Information"
-permalink: /hotel-information
+permalink: /Hotel-Information
 ---
 
 ![image-right]({{ 'https://www.hilton.com/im/en/BWIOWHX/9717020/exterior.jpg?impolicy=crop&cw=4363&ch=3000&gravity=NorthWest&xposition=68&yposition=0&rw=320&rh=220' | absolute_url }}){: .align-right}
@@ -29,5 +29,5 @@ If you need closer accommodations within walking distance of the synagogue for F
 *Last updated: 10/30/2023*
 
 <hr />
-[Home](Home){: .btn .btn--accent} 
+[Home](/){: .btn .btn--accent} 
 [Hotel Information](Hotel-Information){: .btn .btn--info}
