@@ -8,15 +8,16 @@ permalink: /Hotel-Information
 We reserved a room block at the Hampton Inn Baltimore/Owings Mills for May 10, 2024 through May 12, 2024. Just go to [Jonathan's Bar Mitzvah Booking Page](https://www.hilton.com/en/attend-my-event/bwiowhx-jbm-008b1fd8-b63d-4258-bd49-42cf7b68798c/) to book your room at the preferred rate. The Hampton Inn is about 7 miles from the synagogue - about a 10 minute drive.
 <address>
 10521 Red Run Boulevard <br /> Owings Mills, MD 21117 <br /> 410-654-2780
-[Hampton Inn Reservations](https://www.hilton.com/en/attend-my-event/bwiowhx-jbm-008b1fd8-b63d-4258-bd49-42cf7b68798c/) <br /> 
 </address> 
+[Hampton Inn Reservations](https://www.hilton.com/en/attend-my-event/bwiowhx-jbm-008b1fd8-b63d-4258-bd49-42cf7b68798c/) <br /> 
 
 ![image-right]({{ 'images/Doubletree-small.jpg' | absolute_url }}){: .align-right}
 If you want a hotel for walking to the synagogue, the DoubleTree in Pikesville is about a 2 mile walk. 
 <address>
 1726 Reisterstown Road <br /> Pikesville, MD 21208 <br /> 410-653-1100
-[DoubleTree Reservations](https://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html) <br /> 
 </address> 
+[DoubleTree Reservations](https://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html) <br /> 
+
 
 If you need closer accommodations within walking distance of the synagogue for Friday night, please email us soon as possible at [barmitzvah@chudow.com](mailto:barmitzvah@chudow.com?subject=Ross%20Bar%20Mitzvah).
 
