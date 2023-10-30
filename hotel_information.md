@@ -26,7 +26,7 @@ Maps:
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6167.411410434824!2d-76.7284075800833!3d39.38553758602227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x89c819fff9cb969b%3A0xf28af64b84a5bd2a!2sDoubleTree%20by%20Hilton%20Hotel%20Baltimore%20North%20-%20Pikesville%2C%20Reisterstown%20Road%2C%20Pikesville%2C%20MD!3m2!1d39.3825128!2d-76.73352729999999!4m5!1s0x89c810bcdadf6c39%3A0x2c0acef88d2b3d5b!2sChizuk%20Amuno%20Congregation%2C%20Stevenson%20Road%2C%20Pikesville%2C%20MD!3m2!1d39.3922816!2d-76.714266!5e0!3m2!1sen!2sus!4v1698685631693!5m2!1sen!2sus" width="400" height="300" align="right" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <br /> 
-*Last updated: 10/30/2023*
+*Last updated: 10/30/2023 1:26pm*
 
 <hr />
 [Home](/){: .btn .btn--accent} 
