@@ -12,7 +12,7 @@ We reserved a room block at the Hampton Inn Baltimore/Owings Mills for May 10, 2
 [Hampton Inn Reservations](https://www.hilton.com/en/attend-my-event/bwiowhx-jbm-008b1fd8-b63d-4258-bd49-42cf7b68798c/) <br /> <br /> <br /> 
 
 <p>
-![image-right]({{ 'images/Doubletree-small.jpg' | absolute_url | width=400}}){: .align-right}
+![image-right]({{ 'images/Doubletree-small.jpg' | absolute_url}}){: width="300px"}{: .align-right}
 If you want a hotel for walking to the synagogue, the DoubleTree in Pikesville is about a 2 mile walk. 
 <address>
 1726 Reisterstown Road <br /> Pikesville, MD 21208 <br /> 410-653-1100
