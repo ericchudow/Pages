@@ -15,8 +15,9 @@ We will be hosting a kosher, dairy Sunday brunch at our house for out-of-town gu
 *Last updated: 11/12/2023*
 
 <hr />
+[Home](/){: .btn .btn--accent} 
 [Friday Evening](Friday-Evening){: .btn .btn--accent} 
-[Saturday](Saturday){: .btn .btn--accent}
+[Saturday Morning](Saturday-Morning){: .btn .btn--accent}
 [Sunday Morning](Sunday-Morning){: .btn .btn--accent} 
 [Hotel Information](Hotel-Information){: .btn .btn--info}
 {::comment}[Mitzvah Project](Mitzvah-Project){: .btn .btn--success}{:/comment}
