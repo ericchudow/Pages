@@ -32,11 +32,11 @@ If you need to contact us, please email us at [barmitzvah@chudow.com](mailto:bar
 *Last updated: 11/12/2023*
 
 <hr />
-[Home](/){: .btn .btn--accent} 
-[Friday Evening](Friday-Evening){: .btn .btn--accent} 
-[Saturday Morning](Saturday-Morning){: .btn .btn--accent}
-[Sunday Morning](Sunday-Morning){: .btn .btn--accent} 
+[Home](/){: .btn .btn--primary} 
+[Friday Evening](Friday-Evening){: .btn .btn--warning} 
+[Saturday Morning](Saturday-Morning){: .btn .btn--success}
+[Sunday Morning](Sunday-Morning){: .btn .btn--danger} 
 [Hotel Information](Hotel-Information){: .btn .btn--info}
-{::comment}[Mitzvah Project](Mitzvah-Project){: .btn .btn--success}{:/comment}
+{::comment}[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}{:/comment}
 
 {: .notice}
