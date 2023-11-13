@@ -21,7 +21,7 @@ meat dinner for our out-of-town guests.  Please let us know if you have any food
 *Last updated: 11/12/2023*
 
 <hr />
-[Home](Home){: .btn .btn--accent} 
+[Home](/){: .btn .btn--accent} 
 [Friday Evening](Friday-Evening){: .btn .btn--accent} 
 [Saturday](Saturday){: .btn .btn--accent}
 [Sunday Morning](Sunday-Morning){: .btn .btn--accent} 
