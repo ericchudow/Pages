@@ -23,6 +23,7 @@ meat dinner for our out-of-town guests.  Please let us know if you have any food
 <hr />
 [Home](/){: .btn .btn--accent} 
 [Friday Evening](Friday-Evening){: .btn .btn--accent} 
-[Saturday](Saturday){: .btn .btn--accent}
+[Saturday Morning](Saturday-Morning){: .btn .btn--accent}
 [Sunday Morning](Sunday-Morning){: .btn .btn--accent} 
 [Hotel Information](Hotel-Information){: .btn .btn--info}
+{::comment}[Mitzvah Project](Mitzvah-Project){: .btn .btn--success}{:/comment}
