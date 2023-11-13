@@ -30,7 +30,6 @@ If you need to contact us, please email us at [barmitzvah@chudow.com](mailto:bar
 
 <br />
 *Last updated: 11/12/2023*
-
 <hr />
 [Home](/){: .btn .btn--primary} 
 [Friday Evening](Friday-Evening){: .btn .btn--warning} 
