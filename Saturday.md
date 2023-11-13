@@ -43,7 +43,3 @@ will also be available at [https://www.chizukamuno.org/livestream](https://www.c
 [Sunday Morning](Sunday-Morning){: .btn .btn--accent} 
 [Hotel Information](Hotel-Information){: .btn .btn--info}
 {::comment}[Mitzvah Project](Mitzvah-Project){: .btn .btn--success}{:/comment}
-
-
-Photos of Ross by [Michael Temchine Photography](https://michaeltemchine.com/)
-{: .notice}
