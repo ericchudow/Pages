@@ -27,4 +27,13 @@ For guests who are unable to join us in person, a livestream of the service for 
 </tr>
 </table>
 
-
+<br />
+*Last updated: 11/22/2023*
+<hr />
+[Home](/){: .btn .btn--primary} 
+[Friday Evening](Friday-Evening){: .btn .btn--warning} 
+[Saturday Morning](Saturday-Morning){: .btn .btn--success}
+[Saturday Night](Saturday-Night){: .btn .btn--info}
+[Sunday Morning](Sunday-Morning){: .btn .btn--danger} 
+[Hotel Information](Hotel-Information){: .btn .btn--accent}
+{::comment}[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}{:/comment}
