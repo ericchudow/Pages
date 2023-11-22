@@ -27,7 +27,7 @@ We will party with Jonathan on Saturday night at the Owings Mills Jewish Communi
 [Home](/){: .btn .btn--primary} 
 [Friday Evening](Friday-Evening){: .btn .btn--warning} 
 [Saturday Morning](Saturday-Morning){: .btn .btn--success}
-[Saturday Night](Saturday-Night){: .btn .btn--accent}
+[Saturday Night](Saturday-Night){: .btn .btn--info}
 [Sunday Morning](Sunday-Morning){: .btn .btn--danger} 
-[Hotel Information](Hotel-Information){: .btn .btn--info}
+[Hotel Information](Hotel-Information){: .btn .btn--accent}
 {::comment}[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}{:/comment}
