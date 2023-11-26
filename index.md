@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Jonathan's Bar Mitzvah"
 permalink: /
 ---
 ![image-center]({{ '/images/Jonathan-cover.jpg' | absolute_url }}){: .align-center}
