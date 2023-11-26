@@ -19,7 +19,7 @@ If you want a hotel for walking to the synagogue, the DoubleTree in Pikesville i
 [DoubleTree Reservations](https://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html) <br /> 
 <br /> <br /> 
 
-If you need closer accommodations within walking distance of the synagogue for Friday night, please email us soon as possible at [barmitzvah@chudow.com](mailto:barmitzvah@chudow.com?subject=Jonathan%20Bar%20Mitzvah).
+If you need closer accommodations within walking distance of the synagogue for Friday night, please email us at [barmitzvah@chudow.com](mailto:barmitzvah@chudow.com?subject=Jonathan%20Bar%20Mitzvah).
 {: .notice--warning}
 
 ## Maps
