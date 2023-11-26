@@ -29,7 +29,7 @@ A room block will be available at the Hampton Inn in Owings Mills; see [Hotel In
 If you need to contact us, please email us at [barmitzvah@chudow.com](mailto:barmitzvah@chudow.com?subject=Jonathan%20Bar%20Mitzvah).
 
 <br />
-*Last updated: 11/22/2023*
+*Last updated: 11/26/2023*
 <hr />
 [Home](/){: .btn .btn--primary} 
 [Friday Evening](Friday-Evening){: .btn .btn--warning} 
