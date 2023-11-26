@@ -7,7 +7,8 @@ permalink: /Saturday-Night
 # Party
 
 {::comment}![image-left]({{ 'images/Ross in tallis with siddur 2-small.jpg' | absolute_url }}){: .align-left} {:/comment}
-We will party with Jonathan on Saturday night at the Owings Mills Jewish Community Center from 9pm to midnight. There will be snacks, desserts, and dancing. Come celebrate in a comic themed costume (or party casual).  
+We will party with Jonathan on Saturday night at the Owings Mills Jewish Community Center from 9pm to midnight. There will be snacks, desserts, and dancing. Come celebrate in a comic themed costume (no full face masks, swords, or guns) or party casual.  
+![image-right]({{ 'images/Comics.jpg' | absolute_url }}){: .align-right}
 {::comment}![image-right]({{ 'images/Ross reading Torah-small.jpg' | absolute_url }}){: .align-right}{:/comment}
 
 ## JCC Information 
@@ -22,7 +23,7 @@ We will party with Jonathan on Saturday night at the Owings Mills Jewish Communi
 </table>
 
 <br />
-*Last updated: 11/22/2023*
+*Last updated: 11/26/2023*
 <hr />
 [Home](/){: .btn .btn--primary} 
 [Friday Evening](Friday-Evening){: .btn .btn--warning} 
