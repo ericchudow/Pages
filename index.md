@@ -37,6 +37,10 @@ If you need to contact us, please email us at [barmitzvah@chudow.com](mailto:bar
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 *Last updated: 5/19/2024*
 <hr />
 [Home](/){: .btn .btn--primary} 
