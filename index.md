@@ -5,6 +5,7 @@ permalink: /
 ---
 ![image-right]({{ '/images/Jonathan-cover.jpg' | absolute_url }}){: .align-right}
 
+<br />
 <p style="text-align: center;">
 We are so happy that so many friends and family came to celebrate Jonathan's Bar Mitzvah with us. It was such a great and meaningful time. Thank you for sharing it with us and we look forward to sharing many more simachot (happy occassions) with you in the future!
 </p>  
@@ -28,8 +29,12 @@ A room block will be available at the Hampton Inn in Owings Mills; see [Hotel In
 <!-- Click the buttons below for more information: -->
 <!-- [Save the Date](Save-the-Date){: .btn .btn--success} -->
 
+<br />
 If you need to contact us, please email us at [barmitzvah@chudow.com](mailto:barmitzvah@chudow.com?subject=Jonathan%20Bar%20Mitzvah).
-
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 *Last updated: 5/19/2024*
