@@ -41,8 +41,11 @@ If you need to contact us, please email us at [barmitzvah@chudow.com](mailto:bar
 <br />
 <br />
 <br />
+<br />
+<br />
 *Last updated: 5/19/2024*
 <hr />
+<p style="text-align: center;">
 [Home](/){: .btn .btn--primary} 
 <!-- 
 [Friday Evening](Friday-Evening){: .btn .btn--warning} 
@@ -50,6 +53,7 @@ If you need to contact us, please email us at [barmitzvah@chudow.com](mailto:bar
 [Saturday Night](Saturday-Night){: .btn .btn--info}
 [Sunday Morning](Sunday-Morning){: .btn .btn--danger} 
 [Hotel Information](Hotel-Information){: .btn .btn--accent}
+</p> 
 {::comment}[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}{:/comment}
 -->
 
