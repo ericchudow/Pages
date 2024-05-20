@@ -5,7 +5,9 @@ permalink: /
 ---
 ![image-right]({{ '/images/Jonathan-cover.jpg' | absolute_url }}){: .align-right}
 
+<p style="text-align: center;">
 We are so happy that so many friends and family came to celebrate Jonathan's Bar Mitzvah with us. It was such a great and meaningful time. Thank you for sharing it with us and we look forward to sharing many more simachot (happy occassions) with you in the future!
+</p>  
 
 <!-- We are so excited about Jonathan's upcoming Bar Mitzvah.  It will be such a great and meaningful time for our family and friends!  Hopefully this website will help you navigate the weekend.  
 
