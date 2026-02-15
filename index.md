@@ -9,7 +9,7 @@ permalink: /
 <p style="text-align: center;">
 We are so excited about Aviva's upcoming Bar Mitzvah.  It will be such a great and meaningful time for our family and friends!  Hopefully this website will help you navigate the weekend. 
 </p>  
-<br />
+
 <p style="text-align: center;">
 Please save the date for the Bar Mitzvah of: <br />
 <b>
@@ -23,6 +23,7 @@ Formal invitation to follow <br />
 Michelle & Eric Chudow <br />
 </b>
 </p>  
+<br />
 See [Hotel Information](Hotel-Information) for information about places to stay.
 
 <!-- this is a comment -->
@@ -35,16 +36,16 @@ If you need to contact us, please email us at [batmitzvah@chudow.com](mailto:bat
 <br />
 <br />
 <br />
-<br />
 *Last updated: 2/15/2026*
 <hr />
-[Home](/){: .btn .btn--primary .btn--small .align-center} 
-[Friday Evening](Friday-Evening){: .btn .btn--warning .btn--small .align-center} 
-[Saturday Morning](Saturday-Morning){: .btn .btn--success .btn--small .align-center}
-[Saturday Night](Saturday-Night){: .btn .btn--info .btn--small .align-center}
-[Sunday Morning](Sunday-Morning){: .btn .btn--danger .btn--small .align-center} 
-[Hotel Information](Hotel-Information){: .btn .btn--accent .btn--small .align-center}
-[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent .btn--small .align-center}
-
+<p style="text-align: center;">
+[Home](/){: .btn .btn--primary .btn--small } 
+[Friday Evening](Friday-Evening){: .btn .btn--warning .btn--small } 
+[Saturday Morning](Saturday-Morning){: .btn .btn--success .btn--small }
+[Saturday Night](Saturday-Night){: .btn .btn--info .btn--small }
+[Sunday Morning](Sunday-Morning){: .btn .btn--danger .btn--small } 
+[Hotel Information](Hotel-Information){: .btn .btn--accent .btn--small }
+[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent .btn--small }
+</p>
 
 {: .notice}
