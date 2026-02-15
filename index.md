@@ -38,7 +38,6 @@ If you need to contact us, please email us at [batmitzvah@chudow.com](mailto:bat
 <br />
 *Last updated: 2/15/2026*
 <hr />
-<div style="text-align: center;">
 [Home](/){: .btn .btn--primary .btn--small } 
 [Friday Evening](Friday-Evening){: .btn .btn--warning .btn--small } 
 [Saturday Morning](Saturday-Morning){: .btn .btn--success .btn--small }
@@ -46,5 +45,4 @@ If you need to contact us, please email us at [batmitzvah@chudow.com](mailto:bat
 [Sunday Morning](Sunday-Morning){: .btn .btn--danger .btn--small } 
 [Hotel Information](Hotel-Information){: .btn .btn--accent .btn--small }
 [Mitzvah Project](Mitzvah-Project){: .btn .btn--accent .btn--small }
-</div>
 {: .notice}
