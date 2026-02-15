@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Friday Evening"
-permalink: /Friday-Evening
+permalink: /Jonathan/Friday-Evening
 ---
 
 We are planning to have Friday evening Shabbat services at 6:00 PM at our synagogue, Chizuk Amuno Congregation, followed by a kosher, 
