@@ -8,10 +8,10 @@ permalink: /Saturday-Night
 
 {::comment}![image-left]({{ 'images/Ross in tallis with siddur 2-small.jpg' | absolute_url }}){: .align-left} {:/comment}
 
-We will party with Jonathan on Saturday night at the Owings Mills Jewish Community Center from 9pm to midnight. There will be snacks, desserts, and dancing. Come celebrate in a comic themed costume (no full face masks, swords, or guns) or party casual.  
+We will host a dinner in our Sukkah for our out-of-town guests who would like to have a Sukkot holiday meal in the Sukkah with us. Please let us know if you have any food allergies or restrictions. 
 <br />
 <br />
-## JCC Information 
+## Our House 
 <hr />
 <table>
 <tr /><tr style="vertical-align: top" >
@@ -23,7 +23,7 @@ We will party with Jonathan on Saturday night at the Owings Mills Jewish Communi
 </table>
 
 <br />
-*Last updated: 11/26/2023*
+*Last updated: 2/15/2026*
 <hr />
 [Home](/){: .btn .btn--primary} 
 [Friday Evening](Friday-Evening){: .btn .btn--warning} 
@@ -31,4 +31,4 @@ We will party with Jonathan on Saturday night at the Owings Mills Jewish Communi
 [Saturday Night](Saturday-Night){: .btn .btn--info}
 [Sunday Morning](Sunday-Morning){: .btn .btn--danger} 
 [Hotel Information](Hotel-Information){: .btn .btn--accent}
-{::comment}[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}{:/comment}
+[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}
