@@ -3,7 +3,7 @@ layout: page
 title: "Aviva's Bat Mitzvah"
 permalink: /
 ---
-![image-right]({{ '/images/Jonathan-cover.jpg' | absolute_url }}){: .align-right}
+![image-right]({{ '/images/Aviva_portrait.jpg' | absolute_url }}){: .align-right}
 
 <br />
 <p style="text-align: center;">
