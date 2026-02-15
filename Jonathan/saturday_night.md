@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Saturday Night"
-permalink: /Saturday-Night
+permalink: /Jonathan/Saturday-Night
 ---
 ![image-right]({{ 'images/Comics.jpg' | absolute_url }}){: .align-right}
 # Party
