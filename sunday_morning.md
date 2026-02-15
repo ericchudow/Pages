@@ -3,16 +3,23 @@ layout: page
 title: "Sunday Morning"
 permalink: /Sunday-Morning
 ---
+# Sunday Sukkot Morning Services
 
-Jonathan’s Bubby (grandmother), Sharon, will be hosting a kosher, dairy Sunday brunch at our house for out-of-town guests from 10:00 AM - 12:00 PM on Sunday.  
+Sunday Sukkot morning services will begin at 9:30 AM at Chizuk Amuno Congregation.  Everyone is welcome to join the congregation for holiday services and kiddush afterwards. 
 
-7901 Long Meadow Rd <br />  Pikesville, MD 21208 <br />
-410[-]363[-]4413 <br /> 
-5/12/2024 10:00 AM
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3083.861314542862!2d-76.7193443485591!3d39.3820157793982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c810a75cf4ff2b%3A0xffe7e72b8a77a8a0!2s7901%20Long%20Meadow%20Rd%2C%20Pikesville%2C%20MD%2021208!5e0!3m2!1sen!2sus!4v1631471188034!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+## Synagogue Information 
+<hr />
+<table>
+<tr /><tr style="vertical-align: top" >
+  <td style="vertical-align: top" >
+    <img src="images/Chizuk Amuno Community.png" width="300"/><br />
+    <a href="https://www.chizukamuno.org">Chizuk Amuno Congregation</a> <br />  8100 Stevenson Road <br />  Pikesville, MD 21208 <br />  410-486-6400<br /> Conservative<br /> 9/27/2026 9:30 AM<br />Park in the parking lot all the way on the left side of the building (as facing the building when entering the driveway) and enter the building on that side.</td>
+  <td style="vertical-align: top" ><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3083.392777585419!2d-76.71648684855886!3d39.39261907939671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c810bcdadf6c39%3A0x2c0acef88d2b3d5b!2sChizuk%20Amuno%20Congregation!5e0!3m2!1sen!2sus!4v1631459504980!5m2!1sen!2sus" width="450" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe></td>
+</tr>
+</table>
 
 <br />
-*Last updated: 11/26/2023*
+*Last updated: 2/15/2026*
 <hr />
 [Home](/){: .btn .btn--primary} 
 [Friday Evening](Friday-Evening){: .btn .btn--warning} 
@@ -20,4 +27,4 @@ Jonathan’s Bubby (grandmother), Sharon, will be hosting a kosher, dairy Sunday
 [Saturday Night](Saturday-Night){: .btn .btn--info}
 [Sunday Morning](Sunday-Morning){: .btn .btn--danger} 
 [Hotel Information](Hotel-Information){: .btn .btn--accent}
-{::comment}[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}{:/comment}
+[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}
