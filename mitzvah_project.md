@@ -3,7 +3,9 @@ layout: page
 title: "Mitzvah Project"
 permalink: /Mitzvah-Project
 ---
+<br />
 Aviva is still working out the details for her Mitzvah Project. Please check back later.
+<br />
 <br />
 <br />
 <br />
