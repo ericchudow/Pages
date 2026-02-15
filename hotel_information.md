@@ -9,7 +9,13 @@ The Hampton Inn Baltimore/Owings Mills is a convenient hotel about 7 miles from 
 <address>
 10521 Red Run Boulevard <br /> Owings Mills, MD 21117 <br /> 410-654-2780
 </address> 
-[Hampton Inn Reservations](https://www.hilton.com/en/hotels/bwiowhx-hampton-baltimore-owings-mills/?arrivalDate=2026-09-25&departureDate=2026-09-27&flexibleDates=false&numRooms=1) <br /> <br /> <br /> 
+[Hampton Inn Reservations](https://www.hilton.com/en/hotels/bwiowhx-hampton-baltimore-owings-mills/?arrivalDate=2026-09-25&departureDate=2026-09-27&flexibleDates=false&numRooms=1) 
+<br /> 
+<br /> 
+<br /> 
+<br />
+<br />
+<br />
 
 ![image-right]({{ 'images/Doubletree-small.jpg' | absolute_url}}){: .align-right}
 If you want a hotel for walking to the synagogue, the DoubleTree in Pikesville is about a 2 mile walk. 
