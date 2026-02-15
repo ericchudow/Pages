@@ -7,14 +7,15 @@ permalink: /Saturday-Morning
 # Shabbat Sukkot Morning Services
 
 Shabbat Sukkot morning services will begin at 9:30 AM at Chizuk Amuno Congregation.  Aviva will be leading most of the service, so please plan to be on time.  We ask that you either leave your electronic devices at home (or in the hotel), or silence them before coming to synagogue.  Men are expected to wear a kippah (head covering), and women may wear one if they so desire.  There will be kippot for Aviva’s Bat Mitzvah just outside the main sanctuary.  
-![image-right]({{ 'images/Jonathan with Torah.jpg' | absolute_url }}){: .align-right}
+![image-right]({{ 'images/Aviva_with_Torah.jpg' | absolute_url }}){: .align-right}
 
 Any adult being honored with an Aliyah or other role on the bima will also need to wear a tallit (prayer shawl); extras are available at synagogue if you don’t bring one with you. 
 
 Services usually last a little over two hours and will be followed by a kiddush lunch reception (kosher dairy).  Please let us know if you have any food allergies or restrictions.  
 
 For guests who are unable to join us in person, a livestream of the service for those who would like to view it will also be available at [https://www.chizukamuno.org/livestream](https://www.chizukamuno.org/livestream). 
-
+<br />
+<br />
 ## Synagogue Information 
 <hr />
 <table>
