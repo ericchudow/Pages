@@ -19,6 +19,8 @@ Sunday Sukkot morning services will begin at 9:30 AM at Chizuk Amuno Congregatio
 </table>
 
 <br />
+<br />
+<br />
 *Last updated: 2/15/2026*
 <hr />
 [Home](/){: .btn .btn--primary  .btn--small} 
