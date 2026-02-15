@@ -5,7 +5,7 @@ permalink: /Friday-Evening
 ---
 
 We are planning to have Friday evening Shabbat Sukkot services at 6:00 PM at our synagogue, Chizuk Amuno Congregation, followed by a kosher, 
-meat dinner for our out-of-town guests.  Please let us know if you have any food allergies or restrictions. 
+meat dinner in Chizuk's Sukkah for our out-of-town guests.  Please let us know if you have any food allergies or restrictions. 
 
 ## Synagogue Information 
 <hr />
