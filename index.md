@@ -36,16 +36,9 @@ If you need to contact us, please email us at [batmitzvah@chudow.com](mailto:bat
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 *Last updated: 2/15/2026*
 <hr />
-[Home](/){: .btn .btn--primary} 
+[Home](/){: .btn .btn--primary  .btn--small} 
 [Friday Evening](Friday-Evening){: .btn .btn--warning .btn--small} 
 [Saturday Morning](Saturday-Morning){: .btn .btn--success .btn--small}
 [Saturday Night](Saturday-Night){: .btn .btn--info .btn--small}
