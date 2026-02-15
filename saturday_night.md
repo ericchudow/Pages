@@ -4,7 +4,7 @@ title: "Saturday Night"
 permalink: /Saturday-Night
 ---
 ![image-right]({{ 'images/Comics.jpg' | absolute_url }}){: .align-right}
-# Party
+# Dinner in the Sukkah
 
 {::comment}![image-left]({{ 'images/Ross in tallis with siddur 2-small.jpg' | absolute_url }}){: .align-left} {:/comment}
 
