@@ -38,15 +38,13 @@ If you need to contact us, please email us at [batmitzvah@chudow.com](mailto:bat
 <br />
 *Last updated: 2/15/2026*
 <hr />
-<center>
-[Home](/){: .btn .btn--primary  .btn--small} 
-[Friday Evening](Friday-Evening){: .btn .btn--warning .btn--small} 
-[Saturday Morning](Saturday-Morning){: .btn .btn--success .btn--small}
-[Saturday Night](Saturday-Night){: .btn .btn--info .btn--small}
-[Sunday Morning](Sunday-Morning){: .btn .btn--danger .btn--small} 
-[Hotel Information](Hotel-Information){: .btn .btn--accent .btn--small}
-[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent .btn--small}
-</center>
+[Home](/){: .btn .btn--primary .btn--small .align-center} 
+[Friday Evening](Friday-Evening){: .btn .btn--warning .btn--small .align-center} 
+[Saturday Morning](Saturday-Morning){: .btn .btn--success .btn--small .align-center}
+[Saturday Night](Saturday-Night){: .btn .btn--info .btn--small .align-center}
+[Sunday Morning](Sunday-Morning){: .btn .btn--danger .btn--small .align-center} 
+[Hotel Information](Hotel-Information){: .btn .btn--accent .btn--small .align-center}
+[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent .btn--small .align-center}
 
 
 {: .notice}
