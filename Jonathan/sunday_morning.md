@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sunday Morning"
-permalink: /Sunday-Morning
+permalink: /Jonathan/Sunday-Morning
 ---
 
 Jonathan’s Bubby (grandmother), Sharon, will be hosting a kosher, dairy Sunday brunch at our house for out-of-town guests from 10:00 AM - 12:00 PM on Sunday.  
