@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Saturday Morning"
-permalink: /Saturday-Morning
+permalink: /Jonathan/Saturday-Morning
 ---
 
 # Shabbat Morning Services
