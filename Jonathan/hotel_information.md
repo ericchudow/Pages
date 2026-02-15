@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hotel Information"
-permalink: /Hotel-Information
+permalink: /Jonathan/Hotel-Information
 ---
 
 ![image-right]({{ 'https://www.hilton.com/im/en/BWIOWHX/9717020/exterior.jpg?impolicy=crop&cw=4363&ch=3000&gravity=NorthWest&xposition=68&yposition=0&rw=420&rh=300' | absolute_url }}){: .align-right}
