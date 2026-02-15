@@ -7,7 +7,7 @@ permalink: /
 
 <br />
 <p style="text-align: center;">
-We are so excited about Aviva's upcoming Bar Mitzvah.  It will be such a great and meaningful time for our family and friends!  Hopefully this website will help you navigate the weekend. 
+We are so excited about Aviva's upcoming Bat Mitzvah.  It will be such a great and meaningful time for our family and friends!  Hopefully this website will help you navigate the weekend. 
 </p>  
 
 <p style="text-align: center;">
