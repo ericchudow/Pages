@@ -24,6 +24,6 @@ meat dinner for our out-of-town guests.  Please let us know if you have any food
 [Friday Evening](Friday-Evening){: .btn .btn--warning} 
 [Saturday Morning](Saturday-Morning){: .btn .btn--success}
 [Saturday Night](Saturday-Night){: .btn .btn--info}
-{::comment}[Sunday Morning](Sunday-Morning){: .btn .btn--danger}{:/comment} 
+[Sunday Morning](Sunday-Morning){: .btn .btn--danger}
 [Hotel Information](Hotel-Information){: .btn .btn--accent}
-{::comment}[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}{:/comment}
+[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}
