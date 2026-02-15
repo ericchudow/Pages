@@ -24,7 +24,6 @@ Michelle & Eric Chudow <br />
 </b>
 </p>  
 See [Hotel Information](Hotel-Information) for information about places to stay.
--->
 
 <!-- this is a comment -->
 <!-- Click the buttons below for more information: -->
