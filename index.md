@@ -15,10 +15,10 @@ Please save the date for the Bar Mitzvah of: <br />
 <b>
   
 Aviva Malka Chudow <br />
-  
+<br />
 September 26, 2026 <br />
 Pikesville, Maryland <br />
-
+<br />
 Formal invitation to follow <br />
 Michelle & Eric Chudow <br />
 </b>
@@ -30,7 +30,7 @@ See [Hotel Information](Hotel-Information) for information about places to stay.
 <!-- [Save the Date](Save-the-Date){: .btn .btn--success} -->
 
 <br />
-If you need to contact us, please email us at [batmitzvah@chudow.com](mailto:batmitzvah@chudow.com?subject=Aviva%20Bar%20Mitzvah).
+If you need to contact us, please email us at [batmitzvah@chudow.com](mailto:batmitzvah@chudow.com?subject=Aviva%20Bat%20Mitzvah).
 <br />
 <br />
 <br />
@@ -51,7 +51,7 @@ If you need to contact us, please email us at [batmitzvah@chudow.com](mailto:bat
 [Saturday Night](Saturday-Night){: .btn .btn--info}
 [Sunday Morning](Sunday-Morning){: .btn .btn--danger} 
 [Hotel Information](Hotel-Information){: .btn .btn--accent}
-{::comment}[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}{:/comment}
+[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}
 
 
 {: .notice}
