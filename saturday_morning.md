@@ -4,9 +4,9 @@ title: "Saturday Morning"
 permalink: /Saturday-Morning
 ---
 
-# Shabbat Morning Services
+# Shabbat Sukkot Morning Services
 
-Shabbat morning services will begin at 9:30 AM at Chizuk Amuno Congregation.  Jonathan will be leading most of the service, so please plan to be on time.  We ask that you either leave your electronic devices at home (or in the hotel), or silence them before coming to synagogue.  Men are expected to wear a kippah (head covering), and women may wear one if they so desire.  There will be kippot for Jonathan’s Bar Mitzvah just outside the main sanctuary.  
+Shabbat Sukkot morning services will begin at 9:30 AM at Chizuk Amuno Congregation.  Aviva will be leading most of the service, so please plan to be on time.  We ask that you either leave your electronic devices at home (or in the hotel), or silence them before coming to synagogue.  Men are expected to wear a kippah (head covering), and women may wear one if they so desire.  There will be kippot for Aviva’s Bat Mitzvah just outside the main sanctuary.  
 ![image-right]({{ 'images/Jonathan with Torah.jpg' | absolute_url }}){: .align-right}
 
 Any adult being honored with an Aliyah or other role on the bima will also need to wear a tallit (prayer shawl); extras are available at synagogue if you don’t bring one with you. 
@@ -27,7 +27,7 @@ For guests who are unable to join us in person, a livestream of the service for 
 </table>
 
 <br />
-*Last updated: 11/22/2023*
+*Last updated: 2/15/2026*
 <hr />
 [Home](/){: .btn .btn--primary} 
 [Friday Evening](Friday-Evening){: .btn .btn--warning} 
@@ -35,4 +35,4 @@ For guests who are unable to join us in person, a livestream of the service for 
 [Saturday Night](Saturday-Night){: .btn .btn--info}
 [Sunday Morning](Sunday-Morning){: .btn .btn--danger} 
 [Hotel Information](Hotel-Information){: .btn .btn--accent}
-{::comment}[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}{:/comment}
+[Mitzvah Project](Mitzvah-Project){: .btn .btn--accent}
