@@ -1,6 +1,6 @@
 ---
 layout: redirect
 title: "RSVP"
-permalink: /rsvp
+permalink: /Jonathan/rsvp
 redirect_to: https://chudowbarmitzvah.online-rsvp.com
 ---
