@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Jonathan's Bar Mitzvah"
-permalink: /
+permalink: /Jonathan/
 ---
 ![image-right]({{ '/images/Jonathan-cover.jpg' | absolute_url }}){: .align-right}
 
