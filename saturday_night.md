@@ -3,7 +3,7 @@ layout: page
 title: "Saturday Night"
 permalink: /Saturday-Night
 ---
-![image-right]({{ 'images/Sukkah1.jpg' | absolute_url }}){: .align-right}
+![image-right]({{ '/images/Sukkah1.jpg' | absolute_url }}){: .align-right}
 # Dinner in the Sukkah
 
 We will host a dinner in our Sukkah for our out-of-town guests who would like to have a Sukkot holiday meal in the Sukkah with us. Please let us know if you have any food allergies or restrictions. 
