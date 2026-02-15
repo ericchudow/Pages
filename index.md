@@ -13,7 +13,7 @@ We are so excited about Aviva's upcoming Bar Mitzvah.  It will be such a great a
 <p style="text-align: center;">
 Please save the date for the Bar Mitzvah of: <br />
 <b>
-  
+<br />
 Aviva Malka Chudow <br />
 <br />
 September 26, 2026 <br />
