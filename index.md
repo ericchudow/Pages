@@ -14,8 +14,10 @@ We are so excited about Aviva's upcoming Bar Mitzvah.  It will be such a great a
 Please save the date for the Bar Mitzvah of: <br />
 <b>
 Aviva Malka Chudow <br />
+  
 September 26, 2026 <br />
 Pikesville, Maryland <br />
+
 Formal invitation to follow <br />
 Michelle & Eric Chudow <br />
 </b>
