@@ -11,7 +11,7 @@ We are so excited about Aviva's upcoming Bat Mitzvah.  It will be such a great a
 </p>  
 
 <p style="text-align: center;">
-Please save the date for the Bar Mitzvah of: <br />
+Please save the date for the Bat Mitzvah of: <br />
 <b>
 <br />
 Aviva Malka Chudow <br />
