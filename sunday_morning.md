@@ -5,9 +5,9 @@ permalink: /Sunday-Morning
 ---
 # Sunday Sukkot Morning Services
 
-Sunday Sukkot morning services will begin at 9:30 AM at Chizuk Amuno Congregation.  Everyone is welcome to join the congregation for holiday services and kiddush afterwards. 
+For those who are interested in attending Sunday Sukkot holiday morning services, our synagogue will begin services at 9:30 AM at Chizuk Amuno Congregation.  Everyone is welcome to join the congregation for holiday services and kiddush afterwards. 
 
-If you are interested in other synagogue options (i.e., Reform, Orthodox, etc.), please let us know.
+If you are interested in other synagogue options (i.e., Reform, Orthodox, etc.), please let us know and we can provide you with information about other shuls in the area.
 
 ## Synagogue Information 
 <hr />
