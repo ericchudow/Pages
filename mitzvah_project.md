@@ -6,7 +6,7 @@ permalink: /Mitzvah-Project
 <br />
 <table>
 <tr style="vertical-align: center">
-  <td style="vertical-align: center" >Aviva loves spending time with our three cats. She enjoys it so much that she decided to help other cats for her Mitzvah Project. She volunteers at a local cat hospital by cleaning, feeding, helping with checkups, and socializing the cats. She likes spending time with the cats much more than with her brothers and is happy that she can be a big help to Dr. Siegel.</td>
+  <td style="width: 50%; vertical-align: center" >Aviva loves spending time with our three cats. She enjoys it so much that she decided to help other cats for her Mitzvah Project. She volunteers at a local cat hospital by cleaning, feeding, helping with checkups, and socializing the cats. She likes spending time with the cats much more than with her brothers and is happy that she can be a big help to Dr. Siegel.</td>
   <td style="vertical-align: center" ><img src="images/Tuli4.jpg"/></td>
   <td style="vertical-align: center" ><img src="images/Oreo4.jpg"/></td>
   <td style="vertical-align: center" ><img src="images/Rusty4.jpg"/></td>
