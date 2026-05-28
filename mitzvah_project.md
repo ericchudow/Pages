@@ -4,6 +4,7 @@ title: "Mitzvah Project"
 permalink: /Mitzvah-Project
 ---
 <br />
+![image-right]({{ '/images/Rusty4.jpg' | absolute_url }}){: .align-right}
 ![image-right]({{ '/images/Oreo4.jpg' | absolute_url }}){: .align-right}
 ![image-right]({{ '/images/Tuli4.jpg' | absolute_url }}){: .align-right}
 <br />
@@ -15,7 +16,7 @@ Aviva loves spending time with our three cats. She enjoys it so much that she de
 <br />
 <br />
 <br />
-![image-right]({{ '/images/Rusty4.jpg' | absolute_url }}){: .align-right}
+
 <br />
 <br />
 <br />
