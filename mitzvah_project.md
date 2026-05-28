@@ -8,7 +8,7 @@ Aviva loves spending time with our three cats. She enjoys it so much that she de
 ![image-right]({{ '/images/Tuli.jpg' | absolute_url }}){: .align-right}
 ![image-right]({{ '/images/Oreo.jpg' | absolute_url }}){: .align-right}
 ![image-right]({{ '/images/Rusty.jpg' | absolute_url }}){: .align-right}
-<br />
+
 <br />
 <br />
 <br />
