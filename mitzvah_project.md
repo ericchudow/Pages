@@ -6,6 +6,10 @@ permalink: /Mitzvah-Project
 <br />
 ![image-right]({{ '/images/Tuli4.jpg' | absolute_url }}){: .align-right}
 ![image-right]({{ '/images/Oreo4.jpg' | absolute_url }}){: .align-right}
+<br />
+<br />
+<br />
+<br />
 Aviva loves spending time with our three cats. She enjoys it so much that she decided to help other cats for her Mitzvah Project. She volunteers at a local cat hospital by cleaning, feeding, helping with checkups, and socializing with the cats. She likes spending time with the cats much more than with her brothers and is happy that she can be a big help to Dr. Siegel.
 <br />
 <br />
