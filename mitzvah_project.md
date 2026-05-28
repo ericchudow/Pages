@@ -15,8 +15,6 @@ Aviva loves spending time with our three cats. She enjoys it so much that she de
 <br />
 <br />
 <br />
-<br />
-<br />
 ![image-right]({{ '/images/Rusty4.jpg' | absolute_url }}){: .align-right}
 <br />
 <br />
