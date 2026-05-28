@@ -4,9 +4,9 @@ title: "Mitzvah Project"
 permalink: /Mitzvah-Project
 ---
 <br />
-![image-right]({{ '/images/Rusty4.jpg' | absolute_url }}){: .align-right}
-![image-right]({{ '/images/Oreo4.jpg' | absolute_url }}){: .align-right}
-![image-right]({{ '/images/Tuli4.jpg' | absolute_url }}){: .align-right}
+![image-right]({{ '/images/Tuli4.jpg' | absolute_url }}){: .align-center}
+![image-right]({{ '/images/Oreo4.jpg' | absolute_url }}){: .align-center}
+![image-right]({{ '/images/Rusty4.jpg' | absolute_url }}){: .align-center}
 <br />
 <br />
 <br />
