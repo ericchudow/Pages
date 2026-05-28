@@ -4,7 +4,10 @@ title: "Mitzvah Project"
 permalink: /Mitzvah-Project
 ---
 <br />
-Aviva is still working out the details for her Mitzvah Project. Please check back later.
+Aviva loves spending time with our three cats. She enjoys it so much that she decided to help other cats for her Mitzvah Project. She volunteers at a local cat hospital by cleaning, feeding, helping with checkups, and socializing with the cats. She likes spending time with the cats much more than with her brothers and is happy that she can be a big help to Dr. Siegel.
+![image-right]({{ '/images/Tuli.jpg' | absolute_url }}){: .align-right}
+![image-right]({{ '/images/Oreo.jpg' | absolute_url }}){: .align-right}
+![image-right]({{ '/images/Rusty.jpg' | absolute_url }}){: .align-right}
 <br />
 <br />
 <br />
@@ -14,7 +17,7 @@ Aviva is still working out the details for her Mitzvah Project. Please check bac
 <br />
 <br />
 <br />
-*Last updated: 2/15/2026*
+*Last updated: 5/27/2026*
 <hr />
 [Home](/){: .btn .btn--primary  .btn--small} 
 [Friday Evening](Friday-Evening){: .btn .btn--warning .btn--small} 
