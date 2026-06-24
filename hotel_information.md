@@ -6,7 +6,7 @@ permalink: /Hotel-Information
 
 
 ![image-right]({{ 'https://www.hilton.com/im/en/BWIOMGI/1742591/bwiomgi-exterior.jpg?impolicy=crop&cw=4481&ch=2508&gravity=NorthWest&xposition=0&yposition=245&rw=450&rh=250' | absolute_url }}){: .align-right}
-We have a room block at the Hilton Garden Inn Baltimore/Owings Mills for $119 per night. You can book at this rate until August 28, 2026. It is a convenient hotel about 7 miles from the synagogue - about a 10 minute drive. 
+We have a room block at the Hilton Garden Inn Baltimore/Owings Mills for $119 per night. You can book at this rate until August 27, 2026. It is a convenient hotel about 7 miles from the synagogue - about a 10 minute drive. 
 <address>
 4770 Owings Mills Blvd <br /> Owings Mills, MD 21117 <br /> 410-654-0030
 </address> 
